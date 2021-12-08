@@ -3,6 +3,5 @@ package Exam03;
 public class Doll {
 
 	public void pick() {
-		System.out.println("ÀÎÇüÀ» »Ì´Ù");
-	}
+		System.out.println("ì¸í˜•ì„ ë½‘ë‹¤");	}
 }
