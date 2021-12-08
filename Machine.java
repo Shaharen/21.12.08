@@ -2,7 +2,7 @@ package Exam03;
 
 public class Machine {
 	
-	// ÀÎÇüÀ» »Ì´Â ±â´É
+	// ì¸í˜•ì„ ë½‘ëŠ” ê¸°ëŠ¥
 //	public void getPika(Pika pika) {
 //		pika.pick();
 //	}
