@@ -3,6 +3,6 @@ package Exam03;
 public class Kkobuk extends Doll {
 
 	public void pick() {
-		System.out.println("²¿ºÏÀÌ ÀÎÇüÀ» »Ì´Ù");
+		System.out.println("ê¼¬ë¶ì´ ì¸í˜•ì„ ë½‘ë‹¤");
 	}
 }
